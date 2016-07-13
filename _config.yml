@@ -1,0 +1,14 @@
+layout_spectrum: 0.5353761
+typography_spectrum: 0.7823834
+color:
+  saturation: 0.3989701
+  lightness: 0.9094475
+  brandStrength: 0.5251942
+  rhythmicContrast: 0.05735834
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Mmoore
