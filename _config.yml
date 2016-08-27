@@ -1,8 +1,18 @@
-layout_spectrum: 0.5353761
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7823834
 color:
   saturation: 0.3989701
-  lightness: 0.9094475
   brandStrength: 0.5251942
   rhythmicContrast: 0.05735834
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  lightness: 0.9094475
+layout_spectrum: 0.1823308
 name: Mmoore
